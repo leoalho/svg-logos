@@ -5,6 +5,7 @@ My curated list of mainly tech related svg logos. I was tired of constanlty goog
 ## Current list
 - [Ansible](logos/ansible.svg) <img src="logos/ansible.svg" height="20">
 - [Brevo](logos/brevo.svg) <img src="logos/brevo.svg" height="20">
+- [Clerk](logos/clerk.svg) <img src="logos/clerk.svg" height="20">
 - [Digital Ocean](logos/digital-ocean.svg) <img src="logos/digital-ocean.svg" height="20">
 - [Fly.io](logos/fly-io.svg) <img src="logos/fly-io.svg" height="20">
 - [Github](logos/github.svg) <img src="logos/github.svg" height="20">
